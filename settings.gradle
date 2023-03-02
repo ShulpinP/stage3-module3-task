@@ -1,0 +1,5 @@
+include 'module-main'
+include 'module-service'
+include 'module-repository'
+include 'module-web'
+
